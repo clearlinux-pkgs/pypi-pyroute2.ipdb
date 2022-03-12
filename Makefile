@@ -1,5 +1,5 @@
 PKG_NAME := pypi-pyroute2.ipdb
-URL = https://files.pythonhosted.org/packages/0b/cd/6bc464e9487754447ef72e91ae8a88c3b49c4a1a593b9fef87deed55b97a/pyroute2.ipdb-0.6.7.tar.gz
+URL = https://files.pythonhosted.org/packages/f9/42/2e35d0846e55321c2233a43a61c574419b17b69d97da4e79bd9ad65aefea/pyroute2.ipdb-0.6.8.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
